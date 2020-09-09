@@ -56,9 +56,3 @@ python secxss.py
 
 - [ ] 爆破模式
 - [ ] more features...
-
-- [ ] 
-
-- [ ] 
-
-- [ ] 
